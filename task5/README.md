@@ -1,6 +1,4 @@
-# Task 4
-
-- Create a contract for our new token WXYZCoin
+# Task 5
 
 - Use truffle to setup
 
@@ -14,6 +12,8 @@
 
 - Write frontend code to connect wallet to our token
 
-- Implement a liquidity pool farming function
+- Write function in js to whitelist addresses
+
+- Implement minting contract that will submit the NFT to opensea
 
 - This need to be done by end of day
