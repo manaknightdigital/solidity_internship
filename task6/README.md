@@ -12,7 +12,7 @@
 
 - Write function in js to whitelist addresses
 
-- Implement minting contract that will submit 100 blackboxes to be NFT
+- Implement minting contract that will submit 100 blackboxes to be NFT (Meaning have an upgrade function that burn the NFT and remint new token)
 
 - After certain date, reveal the real artwork with raity saved
 
